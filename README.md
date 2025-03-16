@@ -1,4 +1,4 @@
-### Bank System
+# Bank System
 
 ## Table of Contents
 - [Overview](#overview)
